@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @N0probllama,
 - 👀 I’m interested in a variety of hobbies and interests ranging from visual arts to backcountry touring in the mountains.
 - 🌱 I’m currently learning HTML, CSS and Javascript!
-- 💞️ I’m looking to improving my skill set with a positive and supportive employer.
+- 💞️ I’m looking to improve my skill set with a positive and supportive employer.
 - 📫 Stay tuned for more content to come!
 
 <!---
