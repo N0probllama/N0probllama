@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @N0probllama,
 
-- 👀 I’m interested in a variety of hobbies ranging from visual arts to multi-day backcountry trips in remote wilderness. I enjoy using QGIS for cartography, and use my own maps and GPS data for wilerness navigation and work projects.
+- 👀 I’m interested in a variety of hobbies ranging from visual arts to multi-day backcountry trips in remote wilderness. I enjoy using QGIS for cartography, and make my own geo-referanced maps for backcountry navigation.
 
 - 🌱 I’m a Forest Technologist and Environmental Technologist who is upgrading my skills to learn web development with HTML5, CSS3 and Javascript. I'm also learning Java!
 
